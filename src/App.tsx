@@ -54,10 +54,11 @@ table {
   color:inherit;
 }
 body {
+  font-weight: 400;
   font-family: 'Nanum Gothic Coding', monospace;
   background: ${(props) => props.theme.bgColor};
   color: ${(props) => props.theme.textColor};
-
+  line-height: 1.2;
 }
 a{
   text-decoration: none;
