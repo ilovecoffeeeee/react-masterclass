@@ -51,6 +51,7 @@ table {
 }
 * {
   box-sizing: border-box;
+  color:inherit;
 }
 body {
   font-family: 'Nanum Gothic Coding', monospace;
